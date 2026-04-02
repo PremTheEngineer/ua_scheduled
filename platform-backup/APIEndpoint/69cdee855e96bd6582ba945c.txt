@@ -22,15 +22,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"UpdateshYEtYUjfN/UpdateLzvHDDJjqL",
 	"id":"69cdee855e96bd6582ba945c",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"updatepueauivdhc",
-	"modifiedTime":1775104104323,
+	"modifiedTime":1775108839189,
 	"name":"UpdatepueAUIVDhc",
 	"ownerUserId":175325,
 	"path":"UpdateLzvHDDJjqL",
 	"policyIds":[
-		"69cdee605e96bd6582ba9458",
-		"69cdee6c283bb26e758d3633"
+		
 	],
 	"resourceIds":[
 		"6884682497cc242e33044d02"
@@ -43,5 +42,5 @@
 	"supportedHttpMethods":[
 		"PUT"
 	],
-	"version":2
+	"version":4
 }
