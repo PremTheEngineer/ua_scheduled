@@ -13,7 +13,7 @@
 	"collectionId":"69cdee6a5e96bd6582ba9459",
 	"createdTime":1775103814829,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69cdeebf283bb26e758d363d",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_externalapi_get_3840962823",
-	"modifiedTime":1775103814829,
+	"modifiedTime":1775108842777,
 	"name":"changeSetQA2_ExternalAPI_Get_3840962823",
 	"ownerUserId":175325,
 	"path":"ERJaJx3",
@@ -48,5 +48,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
