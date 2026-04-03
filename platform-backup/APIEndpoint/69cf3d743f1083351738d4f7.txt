@@ -22,15 +22,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIepSbOOpICJ/UpdateWporlkSNAr",
 	"id":"69cf3d743f1083351738d4f7",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"updateklqvkiioaf",
-	"modifiedTime":1775189714140,
+	"modifiedTime":1775193330644,
 	"name":"UpdatekLQvKiiOAF",
 	"ownerUserId":175325,
 	"path":"UpdateWporlkSNAr",
 	"policyIds":[
-		"69cf3d4f3f1083351738d4f5",
-		"69cf3d5bde6e220be5c2f4fd"
+		
 	],
 	"resourceIds":[
 		"688469f697cc242e33045458"
@@ -43,5 +42,5 @@
 	"supportedHttpMethods":[
 		"PUT"
 	],
-	"version":2
+	"version":4
 }
