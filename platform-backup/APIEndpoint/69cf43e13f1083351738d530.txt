@@ -13,7 +13,7 @@
 	"collectionId":"69cf43c53f1083351738d52c",
 	"createdTime":1775191009408,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69cf43e13f1083351738d530",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_custom_policies_api_wvx0ta",
-	"modifiedTime":1775191017950,
+	"modifiedTime":1775193331730,
 	"name":"changeSetQA2_custom_policies_api_wVX0Ta",
 	"ownerUserId":175325,
 	"path":"test",
@@ -49,5 +49,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
