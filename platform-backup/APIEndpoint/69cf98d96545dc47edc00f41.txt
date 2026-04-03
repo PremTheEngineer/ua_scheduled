@@ -13,7 +13,7 @@
 	"collectionId":"69cf98b3e3a1070549dc7466",
 	"createdTime":1775213090216,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"description":"Description",
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
@@ -24,12 +24,12 @@
 	"id":"69cf98d96545dc47edc00f41",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2csoeuydszleb",
-	"modifiedTime":1775213090216,
+	"modifiedTime":1775215051846,
 	"name":"changeSetQA2CSOeUYDSzleb",
 	"ownerUserId":175325,
 	"path":"changeSetQA2CSOKmAXpMWLI",
 	"policyIds":[
-		"69cf98bb6545dc47edc00f3f"
+		
 	],
 	"resourceIds":[
 		"69cf98ac8d70c037dfa79276"
@@ -42,5 +42,5 @@
 	"supportedHttpMethods":[
 		"POST"
 	],
-	"version":3
+	"version":5
 }
