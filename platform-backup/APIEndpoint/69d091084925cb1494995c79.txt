@@ -13,7 +13,7 @@
 	"collectionId":"69d090ca4925cb1494995c66",
 	"createdTime":1775276455420,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d091084925cb1494995c79",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_externalapi_patch_7475111177",
-	"modifiedTime":1775276455420,
+	"modifiedTime":1775362521334,
 	"name":"changeSetQA2_ExternalAPI_Patch_7475111177",
 	"ownerUserId":175325,
 	"path":"pM3k1aE",
@@ -48,5 +48,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
