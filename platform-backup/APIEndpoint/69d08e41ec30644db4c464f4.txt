@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIHIEfeoItXa/mvZol/{name}",
 	"id":"69d08e41ec30644db4c464f4",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"changesetqa2csimcdjgzts",
-	"modifiedTime":1775275591081,
+	"modifiedTime":1775362519254,
 	"name":"changeSetQA2CSImCDjgZTS",
 	"ownerUserId":175325,
 	"path":"mvZol/{name}",
 	"policyIds":[
-		"69d08df1ec30644db4c464ef"
+		
 	],
 	"resourceIds":[
 		"6884698397cc242e330451e6"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
