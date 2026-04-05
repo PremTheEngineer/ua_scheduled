@@ -13,7 +13,7 @@
 	"collectionId":"69d1eecd2f896677934ad82b",
 	"createdTime":1775365977208,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,12 +23,12 @@
 	"id":"69d1eeda50f837678a0b3968",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_soap_kekmpdpciohkgjkdpmyn",
-	"modifiedTime":1775365977208,
+	"modifiedTime":1775368231412,
 	"name":"changeSetQA2_soap_KekMpDpcIOHKgjkDPmyN",
 	"ownerUserId":175325,
 	"path":"YHHmAejaSjppTKhhgMT",
 	"policyIds":[
-		"69d1eec32f896677934ad829"
+		
 	],
 	"resourceIds":[
 		"69d1eeba80d0e93be1bfff7d"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"POST"
 	],
-	"version":1
+	"version":3
 }
