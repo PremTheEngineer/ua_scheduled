@@ -13,7 +13,7 @@
 	"collectionId":"69d3370c6211d75ea9214cda",
 	"createdTime":1775449946521,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d3375a1396c62d9e912d44",
 	"lastModifiedBy":175325,
 	"lcName":"rllovaghddleahwnybdn",
-	"modifiedTime":1775449951900,
+	"modifiedTime":1775453554974,
 	"name":"RLLOVagHdDleaHWnybdn",
 	"ownerUserId":175325,
 	"path":"RLLOVagHdDleaHWnybdn",
@@ -35,5 +35,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
