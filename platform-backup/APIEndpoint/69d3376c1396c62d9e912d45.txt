@@ -13,7 +13,7 @@
 	"collectionId":"69d3370c6211d75ea9214cda",
 	"createdTime":1775449964903,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d3376c1396c62d9e912d45",
 	"lastModifiedBy":175325,
 	"lcName":"mojkraxyltndgexocrev",
-	"modifiedTime":1775449970265,
+	"modifiedTime":1775453554974,
 	"name":"mojkrAxYLtndgExOcRev",
 	"ownerUserId":175325,
 	"path":"mojkrAxYLtndgExOcRev",
@@ -38,5 +38,5 @@
 		"PUT",
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
