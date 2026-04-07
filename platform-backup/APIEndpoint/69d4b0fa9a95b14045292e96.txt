@@ -4,7 +4,7 @@
 	"collectionId":"68667789e979370315d5347b",
 	"createdTime":1775546618304,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -13,7 +13,7 @@
 	"id":"69d4b0fa9a95b14045292e96",
 	"lastModifiedBy":-1,
 	"lcName":"tavishi2 automation web-hook",
-	"modifiedTime":1775546618304,
+	"modifiedTime":1775579136461,
 	"name":"Tavishi2 Automation Web-hook",
 	"ownerUserId":-1,
 	"path":"69d4afb475c9140159d16ea8",
@@ -25,5 +25,5 @@
 	"supportedHttpMethods":[
 		"ANY"
 	],
-	"version":0
+	"version":1
 }
