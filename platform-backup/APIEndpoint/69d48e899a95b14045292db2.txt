@@ -23,7 +23,7 @@
 	"id":"69d48e899a95b14045292db2",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2rdlsosoxtsgomyrlonmh",
-	"modifiedTime":1775537807002,
+	"modifiedTime":1775537933658,
 	"name":"changeSetQA2rDlSOsOXtSgOMYrlONMh",
 	"ownerUserId":175325,
 	"path":"kVXhY/{name}",
@@ -33,11 +33,7 @@
 	"resourceType":"WEBHOOK_WORKFLOW",
 	"standard":false,
 	"supportedHttpMethods":[
-		"DELETE",
-		"POST",
-		"GET",
-		"PUT",
-		"PATCH"
+		"GET"
 	],
-	"version":1
+	"version":2
 }
