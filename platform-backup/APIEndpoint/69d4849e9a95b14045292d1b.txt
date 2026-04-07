@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIdwBrQsRqMd/YVydF/{name}",
 	"id":"69d4849e9a95b14045292d1b",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"byqzxxcxwdvylugouyky",
-	"modifiedTime":1775535268016,
+	"modifiedTime":1775539764161,
 	"name":"BYqZXXcXwdvyLugoUyKY",
 	"ownerUserId":175325,
 	"path":"YVydF/{name}",
 	"policyIds":[
-		"69d484059a95b14045292d13"
+		
 	],
 	"resourceIds":[
 		"688de839bd2219dcf5095379"
@@ -45,5 +45,5 @@
 		"PATCH",
 		"PUT"
 	],
-	"version":1
+	"version":2
 }
