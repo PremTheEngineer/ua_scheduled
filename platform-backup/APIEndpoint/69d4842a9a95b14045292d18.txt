@@ -14,25 +14,26 @@
 	"createdTime":1775535146219,
 	"customizeTimeout":false,
 	"deleted":false,
-	"description":"Description",
+	"description":"Update",
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
 	"enableVariableLogging":true,
 	"endpointType":"REST",
-	"endpointUrl":"changeSetQA2CSIdwBrQsRqMd/changeSetQA2CSInoRJHUVAX",
+	"endpointUrl":"changeSetQA2CSIdwBrQsRqMd/UpdateZxEmSownuy",
 	"id":"69d4842a9a95b14045292d18",
 	"lastModifiedBy":175325,
-	"lcName":"changesetqa2csiskmezpfsm",
-	"modifiedTime":1775535156641,
-	"name":"changeSetQA2CSISkMezpfsm",
+	"lcName":"updateofxcabhoma",
+	"modifiedTime":1775535511868,
+	"name":"UpdateOFXcAbhoMa",
 	"ownerUserId":175325,
-	"path":"changeSetQA2CSInoRJHUVAX",
+	"path":"UpdateZxEmSownuy",
 	"policyIds":[
-		"69d484059a95b14045292d13"
+		"69d484059a95b14045292d13",
+		"69d48411ac8a630a1d706c17"
 	],
 	"resourceIds":[
-		"6884690d97cc242e3304502b"
+		"688469f697cc242e33045458"
 	],
 	"resourceType":"CALLABLE_WORKFLOW",
 	"resourceVersions":[
@@ -40,7 +41,7 @@
 	],
 	"standard":false,
 	"supportedHttpMethods":[
-		"POST"
+		"PUT"
 	],
-	"version":1
+	"version":2
 }
