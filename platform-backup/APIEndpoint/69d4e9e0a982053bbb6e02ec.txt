@@ -13,7 +13,7 @@
 	"collectionId":"69d4e983dc53c92a127237d6",
 	"createdTime":1775561325649,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d4e9e0a982053bbb6e02ec",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_externalapi_get_5062440282",
-	"modifiedTime":1775561325649,
+	"modifiedTime":1775621658016,
 	"name":"changeSetQA2_ExternalAPI_Get_5062440282",
 	"ownerUserId":175325,
 	"path":"DihmPjf",
@@ -48,5 +48,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
