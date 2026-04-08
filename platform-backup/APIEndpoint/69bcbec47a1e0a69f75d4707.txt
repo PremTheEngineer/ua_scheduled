@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69bcbeb48302ac0a67a5b5d3",
+	"createdTime":1773977537726,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdatehrmCbxEANy/UpdatefbIYbfoKwx",
+	"id":"69bcbec47a1e0a69f75d4707",
+	"lastModifiedBy":-1,
+	"lcName":"updategacdxteijv",
+	"modifiedTime":1773982372456,
+	"name":"UpdategacDxteIjv",
+	"ownerUserId":175325,
+	"path":"UpdatefbIYbfoKwx",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884682497cc242e33044d02"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
