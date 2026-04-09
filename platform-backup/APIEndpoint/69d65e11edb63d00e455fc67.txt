@@ -13,7 +13,7 @@
 	"collectionId":"69d65daaedb63d00e455fc50",
 	"createdTime":1775656583779,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d65e11edb63d00e455fc67",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_externalapi_delete_1588598613",
-	"modifiedTime":1775656583779,
+	"modifiedTime":1775707855112,
 	"name":"changeSetQA2_ExternalAPI_Delete_1588598613",
 	"ownerUserId":175325,
 	"path":"06X4WWL",
@@ -48,5 +48,5 @@
 	"supportedHttpMethods":[
 		"DELETE"
 	],
-	"version":1
+	"version":2
 }
