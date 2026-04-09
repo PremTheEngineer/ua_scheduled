@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"UpdateObfqERcuUX/jfBFs/{name}",
 	"id":"69d65de2edb63d00e455fc5b",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"changesetqa2uzxmclvm",
-	"modifiedTime":1775656893872,
+	"modifiedTime":1775707851764,
 	"name":"changeSetQA2uzXmclvm",
 	"ownerUserId":175325,
 	"path":"jfBFs/{name}",
 	"policyIds":[
-		"69d65d9423387e0d3c7bc743"
+		
 	],
 	"resourceIds":[
 		"6884666897cc242e3304490f"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":2
+	"version":3
 }
