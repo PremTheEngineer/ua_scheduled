@@ -22,15 +22,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIiQWCLyJrYl/UpdatehuONdcKAnD",
 	"id":"69d73a5ec7dc277c40a7cf11",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"updateyqrlbmspzg",
-	"modifiedTime":1775713206586,
+	"modifiedTime":1775718505336,
 	"name":"UpdateYQrLbmspZG",
 	"ownerUserId":175325,
 	"path":"UpdatehuONdcKAnD",
 	"policyIds":[
-		"69d73a3a9231e2113a5950b2",
-		"69d73a45c7dc277c40a7cef8"
+		
 	],
 	"resourceIds":[
 		"688469f697cc242e33045458"
@@ -43,5 +42,5 @@
 	"supportedHttpMethods":[
 		"PUT"
 	],
-	"version":2
+	"version":4
 }
