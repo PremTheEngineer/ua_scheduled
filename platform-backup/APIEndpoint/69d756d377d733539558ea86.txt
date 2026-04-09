@@ -4,7 +4,7 @@
 	"collectionId":"68667789e979370315d5347b",
 	"createdTime":1775720147627,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -13,7 +13,7 @@
 	"id":"69d756d377d733539558ea86",
 	"lastModifiedBy":-1,
 	"lcName":"token usage | using e_traces automation web-hook",
-	"modifiedTime":1775720147627,
+	"modifiedTime":1775728999495,
 	"name":"Token Usage | Using e_traces Automation Web-hook",
 	"ownerUserId":-1,
 	"path":"69d7564acdb05970110f44cf",
@@ -25,5 +25,5 @@
 	"supportedHttpMethods":[
 		"ANY"
 	],
-	"version":0
+	"version":1
 }
