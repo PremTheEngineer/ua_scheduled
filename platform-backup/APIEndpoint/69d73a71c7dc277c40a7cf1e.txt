@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIiQWCLyJrYl/changeSetQA2CSIUpdFHmlzt",
 	"id":"69d73a71c7dc277c40a7cf1e",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"changesetqa2csiqcgyozgl",
-	"modifiedTime":1775712887011,
+	"modifiedTime":1775718505336,
 	"name":"changeSetQA2CSIqCGyOZGl",
 	"ownerUserId":175325,
 	"path":"changeSetQA2CSIUpdFHmlzt",
 	"policyIds":[
-		"69d73a3a9231e2113a5950b2"
+		
 	],
 	"resourceIds":[
 		"6884695497cc242e330450f7"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
