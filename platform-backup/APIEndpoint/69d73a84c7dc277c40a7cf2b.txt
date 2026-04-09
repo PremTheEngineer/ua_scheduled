@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIiQWCLyJrYl/RyiSB/{name}",
 	"id":"69d73a84c7dc277c40a7cf2b",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"changesetqa2csivkxhhmkg",
-	"modifiedTime":1775712906314,
+	"modifiedTime":1775718505336,
 	"name":"changeSetQA2CSIvKXHHmKG",
 	"ownerUserId":175325,
 	"path":"RyiSB/{name}",
 	"policyIds":[
-		"69d73a3a9231e2113a5950b2"
+		
 	],
 	"resourceIds":[
 		"6884698397cc242e330451e6"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
