@@ -22,15 +22,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIuQGUXfoUlM/UpdateUeltoNdZzf",
 	"id":"69d615c8d3fff9709df18df5",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"updatearhxpbirxb",
-	"modifiedTime":1775638310670,
+	"modifiedTime":1775654665811,
 	"name":"UpdateaRhXpBIRXb",
 	"ownerUserId":175325,
 	"path":"UpdateUeltoNdZzf",
 	"policyIds":[
-		"69d615a415f53633888aa841",
-		"69d615b0d3fff9709df18df3"
+		
 	],
 	"resourceIds":[
 		"688469f697cc242e33045458"
@@ -43,5 +42,5 @@
 	"supportedHttpMethods":[
 		"PUT"
 	],
-	"version":2
+	"version":4
 }
