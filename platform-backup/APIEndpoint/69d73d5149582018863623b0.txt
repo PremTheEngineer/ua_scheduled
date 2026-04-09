@@ -13,7 +13,7 @@
 	"collectionId":"69d73cf24958201886362387",
 	"createdTime":1775713751164,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d73d5149582018863623b0",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_externalapi_get_7076813623",
-	"modifiedTime":1775713751164,
+	"modifiedTime":1775718507503,
 	"name":"changeSetQA2_ExternalAPI_Get_7076813623",
 	"ownerUserId":175325,
 	"path":"bfoDo1Q",
@@ -48,5 +48,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
