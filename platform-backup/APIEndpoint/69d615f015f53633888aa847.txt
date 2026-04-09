@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIuQGUXfoUlM/CIGQG/{name}",
 	"id":"69d615f015f53633888aa847",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"changesetqa2csipcwtvyqi",
-	"modifiedTime":1775638006010,
+	"modifiedTime":1775654665811,
 	"name":"changeSetQA2CSIPcWTVyQi",
 	"ownerUserId":175325,
 	"path":"CIGQG/{name}",
 	"policyIds":[
-		"69d615a415f53633888aa841"
+		
 	],
 	"resourceIds":[
 		"6884698397cc242e330451e6"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
