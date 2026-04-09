@@ -13,7 +13,7 @@
 	"collectionId":"69d619c115f53633888aa87c",
 	"createdTime":1775639020726,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d619ec15f53633888aa885",
 	"lastModifiedBy":175325,
 	"lcName":"wrrbkabqqwicpjxmwysv",
-	"modifiedTime":1775639026125,
+	"modifiedTime":1775654667951,
 	"name":"wRrbkaBqqWICpJxmwysv",
 	"ownerUserId":175325,
 	"path":"wRrbkaBqqWICpJxmwysv",
@@ -35,5 +35,5 @@
 	"supportedHttpMethods":[
 		"PUT"
 	],
-	"version":1
+	"version":2
 }
