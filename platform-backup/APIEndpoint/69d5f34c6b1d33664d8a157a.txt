@@ -4,7 +4,7 @@
 	"collectionId":"68667789e979370315d5347b",
 	"createdTime":1775629132670,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -13,7 +13,7 @@
 	"id":"69d5f34c6b1d33664d8a157a",
 	"lastModifiedBy":-1,
 	"lcName":"test_local_standard automation web-hook",
-	"modifiedTime":1775629132670,
+	"modifiedTime":1775742373947,
 	"name":"test_local_standard Automation Web-hook",
 	"ownerUserId":-1,
 	"path":"69ae52ef5094cf047a0b7226",
@@ -25,5 +25,5 @@
 	"supportedHttpMethods":[
 		"ANY"
 	],
-	"version":0
+	"version":1
 }
