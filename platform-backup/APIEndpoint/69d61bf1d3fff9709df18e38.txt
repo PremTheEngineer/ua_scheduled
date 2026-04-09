@@ -4,7 +4,7 @@
 	"collectionId":"68667789e979370315d5347b",
 	"createdTime":1775639537249,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -13,7 +13,7 @@
 	"id":"69d61bf1d3fff9709df18e38",
 	"lastModifiedBy":-1,
 	"lcName":"changesetqa2pvyjfbhxsqx2 automation web-hook",
-	"modifiedTime":1775639537249,
+	"modifiedTime":1775654661262,
 	"name":"changeSetQA2pvyJfBhxsqx2 Automation Web-hook",
 	"ownerUserId":-1,
 	"path":"69d61bf1f1d8cb7b4dd449be",
@@ -25,5 +25,5 @@
 	"supportedHttpMethods":[
 		"ANY"
 	],
-	"version":0
+	"version":1
 }
