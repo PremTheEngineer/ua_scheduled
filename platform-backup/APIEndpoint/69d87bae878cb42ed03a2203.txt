@@ -21,14 +21,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIueqLPFLaXu/obkXP/{name}",
 	"id":"69d87bae878cb42ed03a2203",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"slvnubkrbtnndmaubrog",
-	"modifiedTime":1775795123637,
+	"modifiedTime":1775880496090,
 	"name":"SLVNubKrBtNNDMaUbrOg",
 	"ownerUserId":175325,
 	"path":"obkXP/{name}",
 	"policyIds":[
-		"69d87ac0701b14568aad49ab"
+		
 	],
 	"resourceIds":[
 		"688de839bd2219dcf5095379"
@@ -45,5 +45,5 @@
 		"PATCH",
 		"PUT"
 	],
-	"version":1
+	"version":2
 }
