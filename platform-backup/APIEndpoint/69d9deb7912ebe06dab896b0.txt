@@ -13,7 +13,7 @@
 	"collectionId":"69d9de74912ebe06dab8969e",
 	"createdTime":1775886183641,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69d9deb7912ebe06dab896b0",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2patchcqptdqcvunrpujkuudoa",
-	"modifiedTime":1775886183641,
+	"modifiedTime":1775891392145,
 	"name":"changeSetQA2PATCHcQptdQcVUNRPuJkUUDoA",
 	"ownerUserId":175325,
 	"path":"cxIIpBBPTqzUZvUnKuq",
@@ -38,5 +38,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
