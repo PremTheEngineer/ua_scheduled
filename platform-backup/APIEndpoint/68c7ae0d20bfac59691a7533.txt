@@ -14,9 +14,9 @@
 	"endpointUrl":"agent-mcp/{agentId}/messages",
 	"httpMethod":"POST",
 	"id":"68c7ae0d20bfac59691a7533",
-	"lastModifiedBy":0,
+	"lastModifiedBy":-1,
 	"lcName":"json-rpc",
-	"modifiedTime":1773768574638,
+	"modifiedTime":1775899003430,
 	"name":"JSON-RPC",
 	"ownerUserId":0,
 	"path":"{agentId}/messages",
@@ -31,5 +31,5 @@
 	"supportedHttpMethods":[
 		"POST"
 	],
-	"version":3
+	"version":4
 }
