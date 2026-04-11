@@ -4,7 +4,7 @@
 	"collectionId":"69d88956e4a2d442753e4279",
 	"createdTime":1775798883536,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -15,7 +15,7 @@
 	"id":"69d88957e4a2d442753e427b",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2tthmg",
-	"modifiedTime":1775798995731,
+	"modifiedTime":1775880497949,
 	"name":"changeSetQA2TthMg",
 	"ownerUserId":175325,
 	"path":"automation",
@@ -30,5 +30,5 @@
 	"supportedHttpMethods":[
 		"POST"
 	],
-	"version":3
+	"version":4
 }
