@@ -4,7 +4,7 @@
 	"collectionId":"68667789e979370315d5347b",
 	"createdTime":1775981395927,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -13,7 +13,7 @@
 	"id":"69db5353be8f866ae23c4712",
 	"lastModifiedBy":-1,
 	"lcName":"inputoutputtab_stepdetails217759813698260 automation web-hook",
-	"modifiedTime":1775981395927,
+	"modifiedTime":1775982805988,
 	"name":"inputOutputTab_stepDetails217759813698260 Automation Web-hook",
 	"ownerUserId":-1,
 	"path":"69db534803482b4306a81bc0",
@@ -25,5 +25,5 @@
 	"supportedHttpMethods":[
 		"ANY"
 	],
-	"version":0
+	"version":1
 }
