@@ -4,7 +4,7 @@
 	"collectionId":"69da3d9517c4365cda4112db",
 	"createdTime":1775910574873,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -15,7 +15,7 @@
 	"id":"69da3d9617c4365cda4112dd",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2ostoz",
-	"modifiedTime":1775910670355,
+	"modifiedTime":1775967550905,
 	"name":"changeSetQA2OsToz",
 	"ownerUserId":175325,
 	"path":"automation",
@@ -30,5 +30,5 @@
 	"supportedHttpMethods":[
 		"POST"
 	],
-	"version":3
+	"version":4
 }
