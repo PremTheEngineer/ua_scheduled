@@ -13,7 +13,7 @@
 	"collectionId":"69db231476ca03250e63448b",
 	"createdTime":1775969231710,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69db235e0f822a584672c84a",
 	"lastModifiedBy":175325,
 	"lcName":"oxrfjowflxtymtfnwege",
-	"modifiedTime":1775969231710,
+	"modifiedTime":1775973291377,
 	"name":"OxrFJowFLXtymtFNWege",
 	"ownerUserId":175325,
 	"path":"OxrFJowFLXtymtFNWege",
@@ -38,5 +38,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
