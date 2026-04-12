@@ -22,15 +22,14 @@
 	"endpointType":"REST",
 	"endpointUrl":"changeSetQA2CSIueqLPFLaXu/UpdatezDkaiaASdx",
 	"id":"69d87ae9878cb42ed03a21fc",
-	"lastModifiedBy":175325,
+	"lastModifiedBy":-1,
 	"lcName":"updateprxlesuzkz",
-	"modifiedTime":1775795408582,
+	"modifiedTime":1775880496090,
 	"name":"UpdatepRxLesUzkz",
 	"ownerUserId":175325,
 	"path":"UpdatezDkaiaASdx",
 	"policyIds":[
-		"69d87ac0701b14568aad49ab",
-		"69d87acc878cb42ed03a21fb"
+		
 	],
 	"resourceIds":[
 		"688469f697cc242e33045458"
@@ -43,5 +42,5 @@
 	"supportedHttpMethods":[
 		"PUT"
 	],
-	"version":2
+	"version":4
 }
