@@ -13,7 +13,7 @@
 	"collectionId":"69dc6fc0c7b59d046d97d208",
 	"createdTime":1776054433874,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69dc7033321cb00470e43999",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2_externalapi_graphql_9281810873",
-	"modifiedTime":1776054433874,
+	"modifiedTime":1776059077241,
 	"name":"changeSetQA2_ExternalAPI_GraphQl_9281810873",
 	"ownerUserId":175325,
 	"path":"O1npz24",
@@ -48,5 +48,5 @@
 	"supportedHttpMethods":[
 		"POST"
 	],
-	"version":1
+	"version":2
 }
