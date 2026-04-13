@@ -13,7 +13,7 @@
 	"collectionId":"69dc6fb4c7b59d046d97d205",
 	"createdTime":1776054483924,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69dc701e321cb00470e43993",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2bjlitzgptvogwbbnvpub",
-	"modifiedTime":1776054483924,
+	"modifiedTime":1776059077175,
 	"name":"changeSetQA2bjLitZGPtVOgwBBnVPUb",
 	"ownerUserId":175325,
 	"path":"EsuNS/{name}",
@@ -42,5 +42,5 @@
 		"PUT",
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
