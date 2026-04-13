@@ -13,7 +13,7 @@
 	"collectionId":"69dc78460ab0491a748e654e",
 	"createdTime":1776056504233,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69dc78b8a2f0947a58461041",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2ijlvqmcelgkxqoufyiug",
-	"modifiedTime":1776056640385,
+	"modifiedTime":1776059076794,
 	"name":"changeSetQA2ijLvQMcELgKXQoUFyIug",
 	"ownerUserId":175325,
 	"path":"joOmn/{name}",
@@ -35,5 +35,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":2
+	"version":3
 }
