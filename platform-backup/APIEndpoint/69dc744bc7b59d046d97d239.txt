@@ -13,7 +13,7 @@
 	"collectionId":"69dc740fc7b59d046d97d234",
 	"createdTime":1776055502148,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69dc744bc7b59d046d97d239",
 	"lastModifiedBy":175325,
 	"lcName":"sysvkcvmodogtzqtuvpu",
-	"modifiedTime":1776055502148,
+	"modifiedTime":1776059076950,
 	"name":"sysvKCvMoDogtZqTuVpU",
 	"ownerUserId":175325,
 	"path":"sysvKCvMoDogtZqTuVpU",
@@ -38,5 +38,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":2
 }
