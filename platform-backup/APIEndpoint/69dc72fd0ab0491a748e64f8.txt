@@ -13,7 +13,7 @@
 	"collectionId":"69dc728f0ab0491a748e64f4",
 	"createdTime":1776055037940,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,7 +23,7 @@
 	"id":"69dc72fd0ab0491a748e64f8",
 	"lastModifiedBy":175325,
 	"lcName":"hgeylcfioeingpgpxrsp",
-	"modifiedTime":1776055043433,
+	"modifiedTime":1776059077046,
 	"name":"hgEylCFiOeInGPGPxrSp",
 	"ownerUserId":175325,
 	"path":"hgEylCFiOeInGPGPxrSp",
@@ -35,5 +35,5 @@
 	"supportedHttpMethods":[
 		"GET"
 	],
-	"version":1
+	"version":2
 }
