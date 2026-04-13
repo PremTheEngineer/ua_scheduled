@@ -13,7 +13,7 @@
 	"collectionId":"69da398443636b0c61766a2c",
 	"createdTime":1775909311591,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"enableNodeLevelLogging":true,
 	"enableRunLogging":true,
@@ -23,12 +23,12 @@
 	"id":"69da39bf43636b0c61766a31",
 	"lastModifiedBy":175325,
 	"lcName":"changesetqa2csicchdiwgm",
-	"modifiedTime":1775909317212,
+	"modifiedTime":1775967551223,
 	"name":"changeSetQA2CSICCHdiWgm",
 	"ownerUserId":175325,
 	"path":"NMPjY/{name}",
 	"policyIds":[
-		"69da396c43636b0c61766a2a"
+		
 	],
 	"resourceIds":[
 		"6884698397cc242e330451e6"
@@ -41,5 +41,5 @@
 	"supportedHttpMethods":[
 		"PATCH"
 	],
-	"version":1
+	"version":3
 }
